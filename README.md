@@ -31,10 +31,9 @@ The computer will immediately choose a random gesture and display the winner.
 
 ---
 
-## 📦 Installation
+## 🚀 Installation & Setup  
 
-### 1️⃣ Create a virtual environment (recommended)
-
+### 1️⃣ Clone the Repository  
 ```bash
-python -m venv rps_env
-rps_env\Scripts\activate
+git clone https://github.com/umaradnaan123/Smart-Object-Based-Recipe-Recommender.git
+cd Smart-Object-Based-Recipe-Recommender
