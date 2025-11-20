@@ -35,5 +35,5 @@ The computer will immediately choose a random gesture and display the winner.
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/umaradnaan123/Smart-Object-Based-Recipe-Recommender.git
-cd Smart-Object-Based-Recipe-Recommender
+git clone https://github.com/umaradnaan123/rock-paper-scissors-hand-gesture-ai.git
+cd rock-paper-scissors-hand-gesture-ai
